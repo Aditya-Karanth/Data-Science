@@ -1,4 +1,4 @@
-The data for this project is takem from kaggle "Emergency - 911 Calls", which contains approximately 660k data points.
+The data for this project is taken from kaggle "Emergency - 911 Calls", which contains approximately 660k data points.
 
 In this work, I have explored and feature engineered few columns
 
